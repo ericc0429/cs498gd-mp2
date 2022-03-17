@@ -1,0 +1,27 @@
+REFERENCES
+
+HEALTH SYSTEM:  https://www.youtube.com/watch?v=rA6PnJDY1m8
+HEALTH PICKUP:  https://www.youtube.com/watch?v=SOF3tvxjfyU
+
+ENEMY DAMAGE:  https://www.youtube.com/watch?v=7JpHINDSmU4&list=PLtpNaPTkjdL6mbqv1JArSa4Ns67sFz1S7&index=14
+AI CHASE:      https://www.youtube.com/watch?v=HK3FAbIkJ-g&list=PLtpNaPTkjdL6mbqv1JArSa4Ns67sFz1S7&index=9
+AI PATROL:     https://www.youtube.com/watch?v=WDzIk7dP4d4&list=PLtpNaPTkjdL6mbqv1JArSa4Ns67sFz1S7&index=10
+AOE:           https://www.youtube.com/watch?v=6TLxsqq_woc
+AI HEALTH:     https://www.youtube.com/watch?v=BpTKS5-9KnE
+
+DASH MECHANIC: https://www.youtube.com/watch?v=XjKKUV8SwP8
+ - Adapted to damage enemies while dashing
+
+PROJECTILES:   https://www.youtube.com/watch?v=ohR5P_zzgtc
+
+
+
+TO DO:
+
+Player knockback after taking damage, player projectiles
+
+
+KNOWN BUGS:
+
+Knockback functionality not working, but controls are disabled for a short period after taking damage.
+Sometimes projectiles double-hit enemies.
